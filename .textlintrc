@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "no-dead-link": {
+      "checkRelative": true,
+      "baseURI": null,
+      "ignore": [],
+      "dotInIgnore": false,
+      "ignoreRedirects": false,
+      "preferGET": [],
+      "retry": 3,
+      "userAgent": "textlint-rule-no-dead-link/1.0",
+      "maxRetryTime": 10,
+      "maxRetryAfterTime": 90
+    }
+  }
+}

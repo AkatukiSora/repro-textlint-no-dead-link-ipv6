@@ -1,0 +1,11 @@
+{
+  "name": "repro-textlint-no-dead-link-ipv6",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0",
+  "dependencies": {
+    "textlint": "15.2.3",
+    "textlint-rule-no-dead-link": "6.0.1"
+  }
+}
